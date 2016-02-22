@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Joris Swinkels]]></title>
         <description><![CDATA[Joris Swinkels]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joris-swinkels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 21:51:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 21:52:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joris-swinkels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My son: Thieme]]></title>
+            <description><![CDATA[<article><h1>My son: Thieme</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebb6e75bda88515404c6846de31132be8ac8cf6f.png"></article>]]></description>
+            <link>https://thegrid.ai/joris-swinkels/my-son-thieme/index.html</link>
+            <guid isPermaLink="false">5bc18ee1-3f11-49d9-964a-70a7874fa010</guid>
+            <pubDate>Mon, 22 Feb 2016 21:51:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My son Laurens]]></title>
             <description><![CDATA[<article><h1>My son Laurens</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c31f997b08b99ec11b6ee59a11f7ef948e3b8354.png"></article>]]></description>
-            <link>undefinedmy-son-laurens/index.html</link>
+            <link>https://thegrid.ai/joris-swinkels/my-son-laurens/index.html</link>
             <guid isPermaLink="false">2b247a0e-4862-4805-90a4-51934ae36a79</guid>
             <pubDate>Mon, 22 Feb 2016 21:51:43 GMT</pubDate>
         </item>
