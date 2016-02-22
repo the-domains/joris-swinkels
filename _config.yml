@@ -1,14 +1,8 @@
 layout_spectrum: 0.9516129
-color:
-  saturation: 0.615014
-  brandStrength: 0.3655914
-  lightness: 0.5143405
-  rhythmicContrast: 0.463998
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
 typography_spectrum: 0.1612903
+color:
+  saturation: 1
+  lightness: 0.7365592
+  brandStrength: 0.3655914
+  rhythmicContrast: 0.7114695
 name: Joris Swinkels
