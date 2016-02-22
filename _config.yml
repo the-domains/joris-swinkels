@@ -1,8 +1,7 @@
-color:
-  saturation: 1
-  brandStrength: 0.3655914
-  rhythmicContrast: 0.7114695
-  lightness: 0.3763441
+name: Joris Swinkels
+favicon: null
+layout_spectrum: 0.9516129
+typography_spectrum: 0.1612903
 collections:
   - index:
       path: /
@@ -15,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.9516129
-typography_spectrum: 0.1612903
-name: Joris Swinkels
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1073a9'
+    - '#032b33'
+    - '#fcc24a'
+    - '#c48722'
+    - '#e62e5b'
+  brandStrength: 0.3655914
+  lightness: 0.3763441
+  saturation: 1
+  rhythmicContrast: 0.7114695
+purpose: []
