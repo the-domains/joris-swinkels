@@ -1,7 +1,7 @@
 name: Joris Swinkels
 favicon: null
 layout_spectrum: 0.80195
-typography_spectrum: 0.1612903
+typography_spectrum: 0
 collections:
   - index:
       path: /
