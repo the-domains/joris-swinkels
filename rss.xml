@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Joris Swinkels]]></title>
-        <description><![CDATA[Joris Swinkels]]></description>
+        <title><![CDATA[Professional Trainer and Transformational Coaching]]></title>
+        <description><![CDATA[Professional Trainer and Transformational Coaching]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 22:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 22:42:32 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My son Thieme]]></title>
@@ -19,6 +19,13 @@
             <link>http://jorisswinkels.nl/my-son-laurens/index.html</link>
             <guid isPermaLink="false">85e24b18-9df6-4caf-b7ac-b20069357aa1</guid>
             <pubDate>Mon, 22 Feb 2016 22:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f846365-7bbc-419b-8600-47dadfedb5cb.jpg">]]></description>
+            <link>http://jorisswinkels.nl/23541891-aa64-4c43-a07c-23b818be6155/index.html</link>
+            <guid isPermaLink="false">23541891-aa64-4c43-a07c-23b818be6155</guid>
+            <pubDate>Mon, 22 Feb 2016 22:42:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
