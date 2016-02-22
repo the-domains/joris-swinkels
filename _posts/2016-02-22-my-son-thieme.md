@@ -1,12 +1,13 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-22T21:51:57.419Z'
+datePublished: '2016-02-22T22:26:24.158Z'
 publisher:
-  domain: ''
   name: ''
-title: 'My son: Thieme'
-dateModified: '2016-02-22T21:37:50.972Z'
+  domain: ''
+title: My son Thieme
+dateModified: '2016-02-22T22:09:33.368Z'
+starred: true
 sourcePath: _posts/2016-02-22-my-son-thieme.md
 published: true
 inFeed: true
@@ -17,5 +18,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# My son: Thieme
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/721adb3d-466f-434a-b8c0-4deddebb8654.png)
+# My son Thieme
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/745b8bdb-5dc3-4e73-88aa-04c8f1b2192e.png)
