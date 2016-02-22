@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: CC Trainer
+title: Transformational Trainer
 cta:
   domain: null
   bucket: null
