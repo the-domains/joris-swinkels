@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Are you Living the Life you Love to Live?]]></title>
-        <description><![CDATA[Are you Living the Life you Love to Live?]]></description>
+        <title><![CDATA[Joris Swinkels]]></title>
+        <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 16:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 16:56:32 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/974cf3dd-9fe5-498f-81e7-4a5e11199717.png">]]></description>
+            <link>http://jorisswinkels.nl/2df7bcc4-ca33-47c4-a846-832cf18f7837/index.html</link>
+            <guid isPermaLink="false">2df7bcc4-ca33-47c4-a846-832cf18f7837</guid>
+            <pubDate>Tue, 23 Feb 2016 16:55:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My son Thieme]]></title>
             <description><![CDATA[<article><h1>My son Thieme</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d15e1afb5b639ecfe8ac47189871d770cd34a50d.png"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>http://jorisswinkels.nl/b2687e45-5ae8-4f6d-a653-d4fa3341fe7d/index.html</link>
             <guid isPermaLink="false">b2687e45-5ae8-4f6d-a653-d4fa3341fe7d</guid>
             <pubDate>Mon, 22 Feb 2016 23:54:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/974cf3dd-9fe5-498f-81e7-4a5e11199717.png">]]></description>
-            <link>http://jorisswinkels.nl/2df7bcc4-ca33-47c4-a846-832cf18f7837/index.html</link>
-            <guid isPermaLink="false">2df7bcc4-ca33-47c4-a846-832cf18f7837</guid>
-            <pubDate>Tue, 23 Feb 2016 16:52:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
