@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 1
   brandStrength: 0
-  lightness: 0.25
+  lightness: 0.6492537
   brandColors:
     - '#716f6e'
     - '#e20a16'
