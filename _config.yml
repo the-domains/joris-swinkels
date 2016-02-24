@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.25
   brandColors:
     - '#716f6e'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Joris Swinkels
 favicon: null
+name: Joris Swinkels
 opengraph:
   image: null
   type: null
