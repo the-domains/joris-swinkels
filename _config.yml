@@ -22,7 +22,7 @@ color:
     - '#d8d9d7'
     - '#000000'
     - '#0000ff'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Joris Swinkels
+favicon: null
 opengraph:
   image: null
   type: null
