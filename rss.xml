@@ -4,7 +4,7 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 21:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 21:33:18 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My Story]]></title>
@@ -26,6 +26,20 @@
             <link>urn:uuid:f3b61bf8-eddd-4e29-8d2f-d9e31d22321b</link>
             <guid isPermaLink="false">85e24b18-9df6-4caf-b7ac-b20069357aa1</guid>
             <pubDate>Wed, 24 Feb 2016 21:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transforming Anger into Passion]]></title>
+            <description><![CDATA[<article><h1>Transforming Anger into Passion</h1><p>You have unlimited energy inside!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/512692a94ff734a9972ac22f28a7353779e166e0.jpg"></article>]]></description>
+            <link>http://jorisswinkels.nl/23541891-aa64-4c43-a07c-23b818be6155/index.html</link>
+            <guid isPermaLink="false">23541891-aa64-4c43-a07c-23b818be6155</guid>
+            <pubDate>Tue, 23 Feb 2016 08:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sacred Geometry]]></title>
+            <description><![CDATA[<article><h1>Sacred Geometry</h1><p>Sacred Geometry is one of my interests, what is the fabric of the universe and how is it build?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc73b30b85e210206854b0d289906824ee7bef7c.jpg"></article>]]></description>
+            <link>http://jorisswinkels.nl/sacred-geometry/index.html</link>
+            <guid isPermaLink="false">3678fc56-649c-4fe6-b287-0f4db53bf3d4</guid>
+            <pubDate>Tue, 23 Feb 2016 00:05:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
