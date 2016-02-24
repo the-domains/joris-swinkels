@@ -1,19 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:f3b61bf8-eddd-4e29-8d2f-d9e31d22321b'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-24T21:12:48.876Z'
+dateModified: '2016-02-22T23:57:55.631Z'
 author: []
-datePublished: '2016-02-22T22:12:56.535Z'
+title: My son Laurens
+sourcePath: _posts/2016-02-22-my-son-laurens.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
-title: My son Laurens
-dateModified: '2016-02-22T22:09:33.614Z'
-starred: true
-sourcePath: _posts/2016-02-22-my-son-laurens.md
-published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: my-son-laurens/index.html
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
