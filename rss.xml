@@ -1,66 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Joris Swinkels]]></title>
-        <description><![CDATA[Joris Swinkels]]></description>
-        <link>http://jorisswinkels.nl/</link>
+        <title><![CDATA[SWINKELS.ES]]></title>
+        <description><![CDATA[SWINKELS.ES]]></description>
+        <link>https://thegrid.ai/swinkels-es/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 21:12:57 GMT</lastBuildDate>
-        <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[My Story]]></title>
-            <description><![CDATA[<article><h1>My Story</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d22b1b3aad4ed5683724d4b12967027dd216b53b.jpg"></article>]]></description>
-            <link>http://jorisswinkels.nl/my-story/index.html</link>
-            <guid isPermaLink="false">e1bb5b86-4377-41c9-a312-2de0aa0ed220</guid>
-            <pubDate>Wed, 24 Feb 2016 20:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My son Thieme]]></title>
-            <description><![CDATA[<article><h1>My son Thieme</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d15e1afb5b639ecfe8ac47189871d770cd34a50d.png"></article>]]></description>
-            <link>urn:uuid:d1133985-c71a-487d-b4b5-18e2d27d4cb1</link>
-            <guid isPermaLink="false">efd87daf-0def-4e54-8380-3623d656b827</guid>
-            <pubDate>Wed, 24 Feb 2016 21:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My son Laurens]]></title>
-            <description><![CDATA[<article><h1>My son Laurens</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60b927e5990cbe42ac847c4be46940bd6ecf0e71.png"></article>]]></description>
-            <link>urn:uuid:f3b61bf8-eddd-4e29-8d2f-d9e31d22321b</link>
-            <guid isPermaLink="false">85e24b18-9df6-4caf-b7ac-b20069357aa1</guid>
-            <pubDate>Wed, 24 Feb 2016 21:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transforming Anger into Passion]]></title>
-            <description><![CDATA[<article><h1>Transforming Anger into Passion</h1><p>You have unlimited energy inside!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/512692a94ff734a9972ac22f28a7353779e166e0.jpg"></article>]]></description>
-            <link>http://jorisswinkels.nl/23541891-aa64-4c43-a07c-23b818be6155/index.html</link>
-            <guid isPermaLink="false">23541891-aa64-4c43-a07c-23b818be6155</guid>
-            <pubDate>Tue, 23 Feb 2016 08:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sacred Geometry]]></title>
-            <description><![CDATA[<article><h1>Sacred Geometry</h1><p>Sacred Geometry is one of my interests, what is the fabric of the universe and how is it build?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc73b30b85e210206854b0d289906824ee7bef7c.jpg"></article>]]></description>
-            <link>http://jorisswinkels.nl/sacred-geometry/index.html</link>
-            <guid isPermaLink="false">3678fc56-649c-4fe6-b287-0f4db53bf3d4</guid>
-            <pubDate>Tue, 23 Feb 2016 00:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20a6fb31-06a8-450b-97b2-b718eafe32d1.jpg">]]></description>
-            <link>http://jorisswinkels.nl/fcfc0c00-d49c-4988-86ac-cb4cb094bcf5/index.html</link>
-            <guid isPermaLink="false">fcfc0c00-d49c-4988-86ac-cb4cb094bcf5</guid>
-            <pubDate>Tue, 23 Feb 2016 00:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd50a407-655b-46db-8811-402ce3306bef.jpg">]]></description>
-            <link>http://jorisswinkels.nl/b2687e45-5ae8-4f6d-a653-d4fa3341fe7d/index.html</link>
-            <guid isPermaLink="false">b2687e45-5ae8-4f6d-a653-d4fa3341fe7d</guid>
-            <pubDate>Mon, 22 Feb 2016 23:54:27 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 24 Feb 2016 21:33:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/swinkels-es/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d963d0-fab8-435f-9d3f-4b50828d83c2.jpg">]]></description>
-            <link>http://jorisswinkels.nl/bf09860d-774b-4dfb-96fa-c600f1d30ebc/index.html</link>
+            <link>https://thegrid.ai/swinkels-es/bf09860d-774b-4dfb-96fa-c600f1d30ebc/index.html</link>
             <guid isPermaLink="false">bf09860d-774b-4dfb-96fa-c600f1d30ebc</guid>
-            <pubDate>Mon, 22 Feb 2016 23:49:53 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 21:27:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
