@@ -6,15 +6,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
-  brandStrength: 0.1427239
+  brandStrength: 0
   lightness: 0.6492537
   brandColors:
     - '#F2FAFC'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Joris Swinkels
 favicon: null
+name: Joris Swinkels
 opengraph:
   image: null
   type: null
