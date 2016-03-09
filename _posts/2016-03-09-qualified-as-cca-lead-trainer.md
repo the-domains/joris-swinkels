@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: after 7 years train-the-trainer program I qualified as a CCA lead trainer
-datePublished: '2016-03-09T23:08:23.568Z'
-dateModified: '2016-03-09T21:57:43.893Z'
+datePublished: '2016-03-09T23:14:27.769Z'
+dateModified: '2016-03-09T23:08:25.843Z'
 title: qualified as CCA LEAD TRAINER
 author: []
 sourcePath: _posts/2016-03-09-qualified-as-cca-lead-trainer.md
