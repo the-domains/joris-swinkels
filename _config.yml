@@ -1,41 +1,41 @@
-name: Joris Swinkels
-favicon: null
-layout_spectrum: 0.51253
-typography_spectrum: 0.32388
 title: Joris Swinkels
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74351104-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0
+  brandStrength: 0.1604478
+  lightness: 0.6492537
   brandColors:
     - '#F2FAFC'
     - '#A2BD30'
     - '#ABD8FA'
     - '#1F65D0'
     - '#07392A'
-  brandStrength: 0.5
-  lightness: 0.6492537
-  saturation: 0
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-74351104-1
+  facebook: null
+name: Joris Swinkels
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.32388
+layout_spectrum: 0.51253
