@@ -36,6 +36,6 @@ color:
     - '#07392A'
   brandStrength: 0
   lightness: 0.6492537
-  saturation: 0.5
-  rhythmicContrast: 0
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
