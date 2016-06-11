@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Coaching Education '
-datePublished: '2016-06-11T20:54:26.343Z'
-dateModified: '2016-06-11T20:54:16.756Z'
+datePublished: '2016-06-11T21:03:47.885Z'
+dateModified: '2016-06-11T20:55:11.259Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-11-coaching-education.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-11-coaching-education.md
+starred: true
 url: coaching-education/index.html
 _type: Article
 
