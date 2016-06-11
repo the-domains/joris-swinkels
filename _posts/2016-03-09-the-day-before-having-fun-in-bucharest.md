@@ -2,22 +2,18 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
 description: 'the day before, having fun in Bucharest'
-datePublished: '2016-03-09T22:16:59.560Z'
-dateModified: '2016-03-09T22:16:49.455Z'
+datePublished: '2016-06-11T21:04:51.840Z'
+dateModified: '2016-06-11T21:04:51.440Z'
 title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-03-09-the-day-before-having-fun-in-bucharest.md
-published: true
+authors: []
+publisher: null
+starred: false
 _type: Blurb
 
 ---
