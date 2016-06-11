@@ -4,7 +4,7 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 20:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 20:55:48 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[qualified as CCA LEAD TRAINER]]></title>
@@ -26,6 +26,13 @@
             <link>http://jorisswinkels.nl/c0f03f94-5063-4a19-8337-bd2637be41ea/index.html</link>
             <guid isPermaLink="false">c0f03f94-5063-4a19-8337-bd2637be41ea</guid>
             <pubDate>Thu, 25 Feb 2016 21:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[References]]></title>
+            <description><![CDATA[<article><h1>References</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbb39d8c286221687a0c36a96eaf606fdd8851ae.jpg"></article>]]></description>
+            <link>http://jorisswinkels.nl/titel-2a/index.html</link>
+            <guid isPermaLink="false">b9602c3c-1cf8-43ce-8d3e-fc61ac96d485</guid>
+            <pubDate>Sat, 11 Jun 2016 20:55:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>My son Thieme</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d15e1afb5b639ecfe8ac47189871d770cd34a50d.png"></article>]]></description>
             <link>urn:uuid:d1133985-c71a-487d-b4b5-18e2d27d4cb1</link>
             <guid isPermaLink="false">efd87daf-0def-4e54-8380-3623d656b827</guid>
-            <pubDate>Wed, 24 Feb 2016 21:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My son Laurens]]></title>
-            <description><![CDATA[<article><h1>My son Laurens</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60b927e5990cbe42ac847c4be46940bd6ecf0e71.png"></article>]]></description>
-            <link>urn:uuid:f3b61bf8-eddd-4e29-8d2f-d9e31d22321b</link>
-            <guid isPermaLink="false">85e24b18-9df6-4caf-b7ac-b20069357aa1</guid>
             <pubDate>Wed, 24 Feb 2016 21:12:48 GMT</pubDate>
         </item>
     </channel>
