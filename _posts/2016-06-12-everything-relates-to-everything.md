@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Everything relates to Everything
-datePublished: '2016-06-12T23:11:56.328Z'
-dateModified: '2016-06-12T23:11:55.853Z'
+datePublished: '2016-06-12T23:15:26.927Z'
+dateModified: '2016-06-12T23:15:12.102Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-12-everything-relates-to-everything.md
@@ -26,7 +26,7 @@ and at the same time we are conditioned specialist in our unique area's
 
 this is fantastic as it delivered everything good in your life!
 
-your qualities, talents, achievements, relationships, jobs, and so on...
+your qualities, talents, achievements, relationships, jobs, and so on...(read more...)
 
 and....it also defines your boarders, your pitfalls, the other side of the coin
 
