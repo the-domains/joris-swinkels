@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Joris Swinkels]]></title>
+        <description><![CDATA[Joris Swinkels]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 12 Jun 2016 22:16:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>SKYPE: jorisskype</p></article>]]></description>
+            <link>undefinedcontact/index.html</link>
+            <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
+            <pubDate>Sun, 12 Jun 2016 22:16:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
