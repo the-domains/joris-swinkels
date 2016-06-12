@@ -4,7 +4,7 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 20:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 20:53:04 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[qualified as CCA LEAD TRAINER]]></title>
@@ -12,6 +12,55 @@
             <link>http://jorisswinkels.nl/qualified-as-cca-lead-trainer/index.html</link>
             <guid isPermaLink="false">078526a9-1a4f-4c3e-bceb-a7c6197225e7</guid>
             <pubDate>Wed, 09 Mar 2016 23:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to my personal page]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff022214-f000-4a7b-b3a5-2d9cab3ab3e0.jpg">]]></description>
+            <link>http://jorisswinkels.nl/c0f03f94-5063-4a19-8337-bd2637be41ea/index.html</link>
+            <guid isPermaLink="false">c0f03f94-5063-4a19-8337-bd2637be41ea</guid>
+            <pubDate>Thu, 25 Feb 2016 21:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[References]]></title>
+            <description><![CDATA[<article><h1>References</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbb39d8c286221687a0c36a96eaf606fdd8851ae.jpg"></article>]]></description>
+            <link>http://jorisswinkels.nl/titel-2a/index.html</link>
+            <guid isPermaLink="false">b9602c3c-1cf8-43ce-8d3e-fc61ac96d485</guid>
+            <pubDate>Sat, 11 Jun 2016 20:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[www.creativeconsciousness.nl]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/727e96a242098683b7c6bab79e64851d440cc318.png" alt="" title="">]]></description>
+            <link>http://jorisswinkels.nl/wwwcreativeconsciousnessnl/index.html</link>
+            <guid isPermaLink="false">2df7bcc4-ca33-47c4-a846-832cf18f7837</guid>
+            <pubDate>Thu, 10 Mar 2016 20:44:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JORIS]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7a0922cb4f2f9e02ac179d59f87a2d84bd26289.jpg" alt="" title="">]]></description>
+            <link>http://jorisswinkels.nl/80b60e55-c164-4d34-b191-d504d875d31c/index.html</link>
+            <guid isPermaLink="false">80b60e55-c164-4d34-b191-d504d875d31c</guid>
+            <pubDate>Wed, 09 Mar 2016 23:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd50a407-655b-46db-8811-402ce3306bef.jpg">]]></description>
+            <link>http://jorisswinkels.nl/b2687e45-5ae8-4f6d-a653-d4fa3341fe7d/index.html</link>
+            <guid isPermaLink="false">b2687e45-5ae8-4f6d-a653-d4fa3341fe7d</guid>
+            <pubDate>Wed, 09 Mar 2016 22:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d328ed-b40f-4d25-93a3-29c4ff2822c4.jpg">]]></description>
+            <link>http://jorisswinkels.nl/3ec1a0be-995f-446a-8ef2-578e5e5d45d0/index.html</link>
+            <guid isPermaLink="false">3ec1a0be-995f-446a-8ef2-578e5e5d45d0</guid>
+            <pubDate>Thu, 25 Feb 2016 23:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My son Thieme]]></title>
+            <description><![CDATA[<article><h1>My son Thieme</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d15e1afb5b639ecfe8ac47189871d770cd34a50d.png"></article>]]></description>
+            <link>urn:uuid:d1133985-c71a-487d-b4b5-18e2d27d4cb1</link>
+            <guid isPermaLink="false">efd87daf-0def-4e54-8380-3623d656b827</guid>
+            <pubDate>Wed, 24 Feb 2016 21:12:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
