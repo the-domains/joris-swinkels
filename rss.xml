@@ -4,21 +4,21 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 22:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 22:30:37 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c91c07b3-a059-4ad7-a587-952a27ff46d7.png">]]></description>
+            <link>http://jorisswinkels.nl/everything-relates-to-everything/index.html</link>
+            <guid isPermaLink="false">4f4abea3-18ff-473c-a292-4118aaaab2a8</guid>
+            <pubDate>Sun, 12 Jun 2016 22:30:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><p>EMAIL: joris@creativeconsciousness.nl</p></article>]]></description>
             <link>http://jorisswinkels.nl/contact/index.html</link>
             <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
             <pubDate>Sun, 12 Jun 2016 22:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c91c07b3-a059-4ad7-a587-952a27ff46d7.png">]]></description>
-            <link>http://jorisswinkels.nl/everything-relates-to-everything/index.html</link>
-            <guid isPermaLink="false">4f4abea3-18ff-473c-a292-4118aaaab2a8</guid>
-            <pubDate>Sun, 12 Jun 2016 22:28:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
