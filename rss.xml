@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Joris Swinkels]]></title>
         <description><![CDATA[Joris Swinkels]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 22:16:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jun 2016 22:20:10 GMT</lastBuildDate>
+        <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>SKYPE: jorisskype</p></article>]]></description>
-            <link>undefinedcontact/index.html</link>
+            <description><![CDATA[<article><h1>Contact</h1><p>EMAIL: joris@creativeconsciousness.nl</p></article>]]></description>
+            <link>http://jorisswinkels.nl/contact/index.html</link>
             <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
-            <pubDate>Sun, 12 Jun 2016 22:16:39 GMT</pubDate>
+            <pubDate>Sun, 12 Jun 2016 22:19:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
