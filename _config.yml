@@ -1,6 +1,6 @@
 name: Joris Swinkels
 favicon: null
-layout_spectrum: 0.7374067
+layout_spectrum: 1
 typography_spectrum: 0.32388
 title: Joris Swinkels
 collections:
@@ -35,7 +35,7 @@ color:
     - '#1F65D0'
     - '#07392A'
   brandStrength: 0
-  lightness: 0.6492537
+  lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.5
 purpose: []
