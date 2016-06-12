@@ -7,15 +7,15 @@ keywords: []
 description: >-
   I am passionate about Sacred Geometry as it is the mathematics of the
   Universe, the description of the code of life, the holy solution of everything
-datePublished: '2016-06-12T23:29:54.080Z'
-dateModified: '2016-06-12T23:29:39.731Z'
+datePublished: '2016-06-12T23:30:10.719Z'
+dateModified: '2016-06-12T23:29:59.629Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-12-i-am-passionate-about-sacred-geometry-as-it-is-the-mathemati.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-12-i-am-passionate-about-sacred-geometry-as-it-is-the-mathemati.md
 url: i-am-passionate-about-sacred-geometry-as-it-is-the-mathemati/index.html
 _type: Article
 
