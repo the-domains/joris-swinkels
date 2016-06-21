@@ -16,8 +16,8 @@ description: >-
   desiring the new? The next episode of leadership, entrepreneurship and world
   structures is knocking at the door, how long do you try to keep up the old
   structure? Or are you ready for the next level?
-datePublished: '2016-06-21T19:33:46.366Z'
-dateModified: '2016-06-21T19:33:39.140Z'
+datePublished: '2016-06-21T19:59:00.217Z'
+dateModified: '2016-06-21T19:36:20.455Z'
 title: Waking up the World!
 author:
   - name: ''
