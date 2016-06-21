@@ -4,8 +4,15 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 21:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 21:58:48 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BLOGS]]></title>
+            <description><![CDATA[<article><h1>BLOGS</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/532a63dbcf9c2d0205c4ee343040ed6b/croprotate.jpg?cropheight=4657&cropwidth=3056&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F90377c23-484a-43a5-8338-7cf05e0028b7.jpg&x=54&y=13"></article>]]></description>
+            <link>http://jorisswinkels.nl/swinkelsbe/index.html</link>
+            <guid isPermaLink="false">60792ab8-e692-4eb5-ab81-6eb6c99962ad</guid>
+            <pubDate>Tue, 21 Jun 2016 21:58:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waking up the World!]]></title>
             <description><![CDATA[<article><h1>Waking up the World!</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21d3fab4f5f092a1b0b1e5647231401e/croprotate.jpg?cropheight=3420&cropwidth=5003&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe24c4a23-d3fb-4d70-aca0-79ff033ddb91.jpg&x=39&y=0"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://jorisswinkels.nl/this-website-is-build-using-thegridio-an-artificial-intelli/index.html</link>
             <guid isPermaLink="false">c2b22f21-4543-4563-894b-fab5c39f96d2</guid>
             <pubDate>Tue, 21 Jun 2016 21:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SWINKELS.BE]]></title>
-            <description><![CDATA[<article><h1>SWINKELS.BE</h1><p>BLOGS</p></article>]]></description>
-            <link>http://jorisswinkels.nl/swinkelsbe/index.html</link>
-            <guid isPermaLink="false">60792ab8-e692-4eb5-ab81-6eb6c99962ad</guid>
-            <pubDate>Tue, 21 Jun 2016 21:34:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About]]></title>
