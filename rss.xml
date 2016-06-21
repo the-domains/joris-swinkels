@@ -4,15 +4,8 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 20:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 20:52:11 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>EMAIL: joris@creativeconsciousness.nl</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/056031fe999922de9eb0847315cd7962/croprotate.jpg?cropheight=3357&cropwidth=4912&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fee8761ee-7f6b-4648-a70a-b69ef816ea3c.jpg&x=38&y=0"></article>]]></description>
-            <link>http://jorisswinkels.nl/contact/index.html</link>
-            <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
-            <pubDate>Tue, 21 Jun 2016 20:49:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Waking up the World!]]></title>
             <description><![CDATA[<article><h1>Waking up the World!</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21d3fab4f5f092a1b0b1e5647231401e/croprotate.jpg?cropheight=3420&cropwidth=5003&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe24c4a23-d3fb-4d70-aca0-79ff033ddb91.jpg&x=39&y=0"></article>]]></description>
@@ -26,6 +19,13 @@
             <link>http://jorisswinkels.nl/if-your-company-or-your-job-has-no-purpose-for-this-earth-an/index.html</link>
             <guid isPermaLink="false">41050580-d4f2-44a5-b22b-bfe7619f6748</guid>
             <pubDate>Tue, 21 Jun 2016 19:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>EMAIL: joris@creativeconsciousness.nl</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/056031fe999922de9eb0847315cd7962/croprotate.jpg?cropheight=3357&cropwidth=4912&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fee8761ee-7f6b-4648-a70a-b69ef816ea3c.jpg&x=38&y=0"></article>]]></description>
+            <link>http://jorisswinkels.nl/contact/index.html</link>
+            <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
+            <pubDate>Tue, 21 Jun 2016 20:52:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
