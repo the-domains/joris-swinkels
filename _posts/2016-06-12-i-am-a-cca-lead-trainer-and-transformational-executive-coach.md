@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I am a CCA Lead Trainer and Transformational Executive Coach. '
-datePublished: '2016-06-21T18:37:40.459Z'
-dateModified: '2016-06-21T18:27:02.952Z'
+datePublished: '2016-06-21T19:16:24.265Z'
+dateModified: '2016-06-21T19:03:32.095Z'
 title: ''
 author: []
 sourcePath: >-
