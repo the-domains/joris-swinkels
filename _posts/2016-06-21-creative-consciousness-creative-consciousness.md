@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: nl
 keywords: []
-description: CC Netherlands
-datePublished: '2016-06-21T20:48:03.369Z'
-dateModified: '2016-06-21T20:47:59.977Z'
+description: CC NL
+datePublished: '2016-06-21T20:48:16.001Z'
+dateModified: '2016-06-21T20:48:12.693Z'
 author: []
 related: []
 app_links: []
@@ -24,6 +24,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-CC Netherlands
+CC NL
 
 <article style=""><h1>Creative Consciousness - Creative Consciousness</h1><p>Creative Consciousness verzorgt wereldwijd levensveranderende cursussen en trainingen door werken vanuit bewustzijn en leren door te doen. Individuele trainingen zijn gericht op persoonlijke groei, transformatie, gedragsbewustwording en gedragsverandering, persoonlijk leiderschap en jij en je relaties. Onder Persoonlijke Groei vind je een reeks trainingen voor particulieren. Onder Bedrijfstrainingen vind je ons aanbod voor organisaties.</p><img src="http://creativeconsciousness.nl/files/2013/06/IMG_3577-645x319.jpg" /></article>
