@@ -8,15 +8,15 @@ description: >-
   If your Company or your job has no purpose for this earth and its people other
   than financial, stop it, go do something else! Where do you choose to give
   your life to?
-datePublished: '2016-06-21T17:13:21.170Z'
-dateModified: '2016-06-21T17:08:48.854Z'
+datePublished: '2016-06-21T17:15:07.784Z'
+dateModified: '2016-06-21T17:13:43.665Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-21-if-your-company-or-your-job-has-no-purpose-for-this-earth-an.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: if-your-company-or-your-job-has-no-purpose-for-this-earth-an/index.html
 _type: Article
 
