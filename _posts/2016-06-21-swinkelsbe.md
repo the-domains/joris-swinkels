@@ -1,25 +1,31 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
+description: BLOGS
+datePublished: '2016-06-21T21:34:28.900Z'
+dateModified: '2016-06-21T21:34:17.687Z'
 author: []
 related: []
-publisher:
-  url: 'http://swinkels.be'
-  name: Swinkels
-  favicon: null
-  domain: swinkels.be
-keywords: []
-description: ''
 app_links: []
-isBasedOnUrl: 'http://swinkels.be/'
 title: SWINKELS.BE
-datePublished: '2016-06-21T21:33:23.437Z'
-dateModified: '2016-06-21T21:24:17.749Z'
-starred: false
 sourcePath: _posts/2016-06-21-swinkelsbe.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Swinkels
+  domain: swinkels.be
+  url: 'http://swinkels.be'
+  favicon: null
+starred: false
+url: swinkelsbe/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90377c23-484a-43a5-8338-7cf05e0028b7.jpg)
+
+BLOGS
+
 <article style=""><h1>SWINKELS.BE</h1></article>
