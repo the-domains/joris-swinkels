@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://creativeconsciousness.nl/'
 inLanguage: nl
 keywords: []
 description: CC NL
-datePublished: '2016-06-21T20:48:35.809Z'
-dateModified: '2016-06-21T20:48:29.922Z'
+datePublished: '2016-06-21T20:53:40.919Z'
+dateModified: '2016-06-21T20:53:17.371Z'
 author: []
 related: []
 app_links: []
@@ -19,7 +20,6 @@ publisher:
   url: 'http://creativeconsciousness.nl'
   favicon: 'http://creativeconsciousness.nl/files/2013/07/favicon.ico'
 starred: false
-url: creative-consciousness-creative-consciousness/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
