@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://creativeconsciousness.nl'
-  name: Creativeconsciousness
-  favicon: 'http://creativeconsciousness.nl/files/2013/07/favicon.ico'
-  domain: creativeconsciousness.nl
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: nl
 keywords: []
 description: >-
   Creative Consciousness verzorgt wereldwijd levensveranderende cursussen en
@@ -14,17 +11,21 @@ description: >-
   gedragsbewustwording en gedragsverandering, persoonlijk leiderschap en jij en
   je relaties. Onder Persoonlijke Groei vind je een reeks trainingen voor
   particulieren. Onder Bedrijfstrainingen vind je ons aanbod voor organisaties.
-inLanguage: nl
+datePublished: '2016-06-21T20:44:04.064Z'
+dateModified: '2016-06-21T20:43:57.685Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://creativeconsciousness.nl/'
 title: Creative Consciousness - Creative Consciousness
-datePublished: '2016-06-21T20:39:49.482Z'
-dateModified: '2016-06-21T20:38:54.419Z'
-starred: false
 sourcePath: _posts/2016-06-21-creative-consciousness-creative-consciousness.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Creativeconsciousness
+  domain: creativeconsciousness.nl
+  url: 'http://creativeconsciousness.nl'
+  favicon: 'http://creativeconsciousness.nl/files/2013/07/favicon.ico'
+starred: false
+url: creative-consciousness-creative-consciousness/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
