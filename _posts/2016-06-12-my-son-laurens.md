@@ -1,20 +1,20 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-21T20:07:37.871Z'
-dateModified: '2016-06-21T20:07:27.053Z'
+datePublished: '2016-06-21T20:08:03.081Z'
+dateModified: '2016-06-21T20:07:59.146Z'
 title: My son Laurens
 author: []
 sourcePath: _posts/2016-06-12-my-son-laurens.md
 authors: []
 publisher: null
 starred: false
-url: my-son-laurens/index.html
-_type: Article
+_type: Blurb
 
 ---
 # My son Laurens
