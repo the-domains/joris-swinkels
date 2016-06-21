@@ -1,24 +1,26 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Everything relates to Everything
-datePublished: '2016-06-21T17:05:23.829Z'
-dateModified: '2016-06-21T17:05:13.700Z'
+datePublished: '2016-06-21T17:20:05.941Z'
+dateModified: '2016-06-21T17:19:55.682Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-12-everything-relates-to-everything.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: everything-relates-to-everything/index.html
 _type: Article
 
 ---
-Everything relates to Everything
+BLOG
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c91c07b3-a059-4ad7-a587-952a27ff46d7.png)
+
+Everything relates to Everything
 
 everyone is everything
 
