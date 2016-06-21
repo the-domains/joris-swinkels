@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 keywords:
   - consciousness
@@ -22,8 +22,8 @@ description: >-
   consciousness development, personal transformation and premium coaching based
   on extensive research in the fields of psychology, ontology, Eastern and
   Western philosophy.
-datePublished: '2016-06-21T20:44:29.596Z'
-dateModified: '2016-06-21T20:43:32.362Z'
+datePublished: '2016-06-21T20:49:02.145Z'
+dateModified: '2016-06-21T20:48:56.879Z'
 author: []
 related: []
 app_links: []
