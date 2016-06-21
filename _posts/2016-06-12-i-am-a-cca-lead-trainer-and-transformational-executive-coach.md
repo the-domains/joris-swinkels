@@ -6,15 +6,15 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-21T20:32:58.608Z'
-dateModified: '2016-06-21T20:32:22.036Z'
+datePublished: '2016-06-21T20:51:35.813Z'
+dateModified: '2016-06-21T20:51:32.763Z'
 title: 'I am a CCA Lead Trainer and Transformational Executive Coach. '
 author: []
 sourcePath: >-
   _posts/2016-06-12-i-am-a-cca-lead-trainer-and-transformational-executive-coach.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
