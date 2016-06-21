@@ -11,8 +11,8 @@ description: >-
   without doing. just letting it happen. transmitting everything I wish for
   without needing to know computer language, transmitting by pictures, by moods.
   some will like it. some won’t. I am happy..
-datePublished: '2016-06-21T21:52:50.380Z'
-dateModified: '2016-06-21T21:52:24.092Z'
+datePublished: '2016-06-21T22:16:15.860Z'
+dateModified: '2016-06-21T21:52:58.662Z'
 title: ''
 author: []
 sourcePath: >-
