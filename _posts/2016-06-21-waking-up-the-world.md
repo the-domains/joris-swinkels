@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Waking up the World
-datePublished: '2016-06-21T15:37:59.772Z'
-dateModified: '2016-06-21T15:36:12.803Z'
+datePublished: '2016-06-21T15:38:43.119Z'
+dateModified: '2016-06-21T15:38:08.603Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-21-waking-up-the-world.md
