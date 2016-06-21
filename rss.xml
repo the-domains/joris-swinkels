@@ -4,8 +4,15 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 20:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 20:46:06 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c319f8c-1830-47fd-9f52-3929e20200c4.jpg">]]></description>
+            <link>http://jorisswinkels.nl/this-website-is-build-using-thegridio-an-artificial-intelli/index.html</link>
+            <guid isPermaLink="false">c2b22f21-4543-4563-894b-fab5c39f96d2</guid>
+            <pubDate>Tue, 21 Jun 2016 20:46:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waking up the World!]]></title>
             <description><![CDATA[<article><h1>Waking up the World!</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21d3fab4f5f092a1b0b1e5647231401e/croprotate.jpg?cropheight=3420&cropwidth=5003&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe24c4a23-d3fb-4d70-aca0-79ff033ddb91.jpg&x=39&y=0"></article>]]></description>
@@ -47,13 +54,6 @@
             <link>http://jorisswinkels.nl/contact/index.html</link>
             <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
             <pubDate>Tue, 21 Jun 2016 20:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c319f8c-1830-47fd-9f52-3929e20200c4.jpg">]]></description>
-            <link>http://jorisswinkels.nl/this-website-is-build-using-thegridio-an-artificial-intelli/index.html</link>
-            <guid isPermaLink="false">c2b22f21-4543-4563-894b-fab5c39f96d2</guid>
-            <pubDate>Tue, 21 Jun 2016 20:32:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bewust worden van jezelf!]]></title>
