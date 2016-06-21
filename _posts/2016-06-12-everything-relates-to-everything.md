@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Everything relates to Everything
-datePublished: '2016-06-21T18:14:08.406Z'
-dateModified: '2016-06-21T17:39:09.930Z'
+datePublished: '2016-06-21T18:14:54.336Z'
+dateModified: '2016-06-21T18:14:22.249Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-12-everything-relates-to-everything.md
