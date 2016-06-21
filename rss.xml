@@ -4,7 +4,7 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 21:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 21:17:38 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Waking up the World!]]></title>
@@ -19,6 +19,13 @@
             <link>http://jorisswinkels.nl/if-your-company-or-your-job-has-no-purpose-for-this-earth-an/index.html</link>
             <guid isPermaLink="false">41050580-d4f2-44a5-b22b-bfe7619f6748</guid>
             <pubDate>Tue, 21 Jun 2016 19:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are you the word you give?]]></title>
+            <description><![CDATA[<article><h1>Are you the word you give?</h1><p>If you break your Word, you break your Power....Integrity of a structure is the 'wholeness' of the structure. If there is a hole in the structure the integrity is damaged. Same for the Word you give. Integrity of your Word means the 'wholeness' of the Word you give.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f0450bd46c6995df6c9dd03cb962b6ef/noop.jpg?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2Fjc%2FAAEAAQAAAAAAAAeLAAAAJDE0YTY5ZTNjLTQwZmYtNDE0My04NzRhLTg0OGY3NDU1MGEyNg.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/you-word-give-joris-swinkels?trk=mp-author-card</link>
+            <guid isPermaLink="false">1301d0d4-9a74-4b09-9c99-e5dffcfc0e8d</guid>
+            <pubDate>Tue, 21 Jun 2016 21:16:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is your color when you are >55?]]></title>
@@ -68,13 +75,6 @@
             <link>http://jorisswinkels.nl/contact/index.html</link>
             <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
             <pubDate>Tue, 21 Jun 2016 20:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c319f8c-1830-47fd-9f52-3929e20200c4.jpg">]]></description>
-            <link>http://jorisswinkels.nl/this-website-is-build-using-thegridio-an-artificial-intelli/index.html</link>
-            <guid isPermaLink="false">c2b22f21-4543-4563-894b-fab5c39f96d2</guid>
-            <pubDate>Tue, 21 Jun 2016 20:51:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
