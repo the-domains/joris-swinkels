@@ -4,7 +4,7 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 17:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 17:10:30 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://jorisswinkels.nl/this-website-is-build-using-thegridio-an-artificial-intelli/index.html</link>
             <guid isPermaLink="false">c2b22f21-4543-4563-894b-fab5c39f96d2</guid>
             <pubDate>Sun, 12 Jun 2016 23:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>EMAIL: joris@creativeconsciousness.nl</p></article>]]></description>
+            <link>http://jorisswinkels.nl/contact/index.html</link>
+            <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
+            <pubDate>Tue, 21 Jun 2016 17:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +47,6 @@
             <link>http://jorisswinkels.nl/my-son-laurens/index.html</link>
             <guid isPermaLink="false">822e4134-0116-4a3b-8ce6-5bf16efccc59</guid>
             <pubDate>Tue, 21 Jun 2016 17:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>EMAIL: joris@creativeconsciousness.nl</p></article>]]></description>
-            <link>http://jorisswinkels.nl/contact/index.html</link>
-            <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
-            <pubDate>Tue, 21 Jun 2016 15:37:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
