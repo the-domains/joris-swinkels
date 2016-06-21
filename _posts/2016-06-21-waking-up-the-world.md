@@ -13,9 +13,11 @@ description: >-
   level of Consciousness arises from a new scope of Self. More energy, clearer
   purpose and meaning, less bagage, less false imagined limitations. It's
   described as coming home to one's Self. Are you an entrepreneur or influencer
-  desiring the new? 
-datePublished: '2016-06-21T19:21:52.799Z'
-dateModified: '2016-06-21T19:21:49.046Z'
+  desiring the new? The next episode of leadership, entrepreneurship and world
+  structures is knocking at the door, how long do you try to keep up the old
+  structure? Or are you ready for the next level?
+datePublished: '2016-06-21T19:33:46.366Z'
+dateModified: '2016-06-21T19:33:39.140Z'
 title: Waking up the World!
 author:
   - name: ''
@@ -29,5 +31,5 @@ _type: MediaObject
 ---
 # Waking up the World!
 
-**Together with a team of trainers, coaches and ambassadors I wake up the World. We facilitate 4 day processes to guide people beyond their conditioning. Seeing what they have forgot. Experiencing what they forgot to miss. A new level of Consciousness arises from a new scope of Self. More energy, clearer purpose and meaning, less bagage, less false imagined limitations. It's described as coming home to one's Self. Are you an entrepreneur or influencer desiring the new? **
+**Together with a team of trainers, coaches and ambassadors I wake up the World. We facilitate 4 day processes to guide people beyond their conditioning. Seeing what they have forgot. Experiencing what they forgot to miss. A new level of Consciousness arises from a new scope of Self. More energy, clearer purpose and meaning, less bagage, less false imagined limitations. It's described as coming home to one's Self. Are you an entrepreneur or influencer desiring the new? The next episode of leadership, entrepreneurship and world structures is knocking at the door, how long do you try to keep up the old structure? Or are you ready for the next level?**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e24c4a23-d3fb-4d70-aca0-79ff033ddb91.jpg)
