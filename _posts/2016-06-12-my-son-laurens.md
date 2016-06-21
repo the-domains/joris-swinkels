@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-21T21:55:56.802Z'
-dateModified: '2016-06-21T21:41:07.522Z'
-title: My son Laurens
+datePublished: '2016-06-21T21:56:18.753Z'
+dateModified: '2016-06-21T21:56:04.707Z'
+title: ' '
 author:
   - name: ''
     url: ''
@@ -19,5 +19,4 @@ starred: false
 _type: Blurb
 
 ---
-## My son Laurens
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa0c1944-bb75-469b-b95d-ebcaf69f2286.jpg)
+## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa0c1944-bb75-469b-b95d-ebcaf69f2286.jpg)
