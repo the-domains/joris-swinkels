@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-21T19:28:25.140Z'
-dateModified: '2016-06-21T19:28:19.992Z'
+datePublished: '2016-06-21T20:32:29.730Z'
+dateModified: '2016-06-21T20:29:27.417Z'
 title: >-
   I am passionate about Sacred Geometry as it is the mathematics of the
   Universe, the description of the code of life, it describes how everything is
@@ -17,8 +18,7 @@ sourcePath: >-
 authors: []
 publisher: null
 starred: false
-url: i-am-passionate-about-sacred-geometry-as-it-is-the-mathemati/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## I am passionate about Sacred Geometry as it is the mathematics of the Universe, the description of the code of life, it describes how everything is related to everything
