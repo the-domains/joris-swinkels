@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Waking up the World!
-datePublished: '2016-06-21T18:26:35.136Z'
-dateModified: '2016-06-21T18:26:28.288Z'
+datePublished: '2016-06-21T19:16:11.307Z'
+dateModified: '2016-06-21T19:12:32.241Z'
 title: ''
 author:
   - name: ''
@@ -16,10 +16,11 @@ author:
 sourcePath: _posts/2016-06-21-waking-up-the-world.md
 authors: []
 publisher: null
-starred: true
+starred: false
 _type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65dcd6928826dfd32527f62262f42e0b/croprotate.jpg?cropheight=3420&cropwidth=5003&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6cfb704b-ca9c-4a00-a39b-95aeefbc3175.jpg&x=39&y=0)
-
 **Waking up the World!**
+
+**Together with a team of trainers, coaches and ambassadors I wake up the World. We facilitate 4 day processes to guide people beyond their conditioning. Seeing what they have forgot. Experiencing what they forgot to miss. A new level of Consciousness arises from a new scope of Self. More energy, clearer purpose and meaning, less bagage, less false imagined limitations. It's described as coming home to one's Self. Are you an entrepreneur or influencer desiring the new? **
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e24c4a23-d3fb-4d70-aca0-79ff033ddb91.jpg)
