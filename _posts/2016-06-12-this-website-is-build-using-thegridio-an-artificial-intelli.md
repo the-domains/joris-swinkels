@@ -11,15 +11,15 @@ description: >-
   without doing. just letting it happen. transmitting everything I wish for
   without needing to know computer language, transmitting by pictures, by moods.
   some will like it. some won’t. I am happy..
-datePublished: '2016-06-21T20:32:49.528Z'
-dateModified: '2016-06-21T20:32:39.953Z'
+datePublished: '2016-06-21T20:46:02.064Z'
+dateModified: '2016-06-21T20:45:58.068Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-12-this-website-is-build-using-thegridio-an-artificial-intelli.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: this-website-is-build-using-thegridio-an-artificial-intelli/index.html
 _type: Article
 
