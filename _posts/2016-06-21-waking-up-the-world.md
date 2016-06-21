@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Waking up the World!
-datePublished: '2016-06-21T19:17:37.923Z'
-dateModified: '2016-06-21T19:17:33.945Z'
+datePublished: '2016-06-21T19:21:18.585Z'
+dateModified: '2016-06-21T19:17:45.992Z'
 title: ''
 author:
   - name: ''
@@ -16,7 +16,7 @@ author:
 sourcePath: _posts/2016-06-21-waking-up-the-world.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: MediaObject
 
 ---
