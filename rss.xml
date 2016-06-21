@@ -4,7 +4,7 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 18:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 18:18:20 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[blog]]></title>
@@ -12,13 +12,6 @@
             <link>http://jorisswinkels.nl/everything-relates-to-everything/index.html</link>
             <guid isPermaLink="false">4f4abea3-18ff-473c-a292-4118aaaab2a8</guid>
             <pubDate>Tue, 21 Jun 2016 18:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waking up the World]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65dcd6928826dfd32527f62262f42e0b/croprotate.jpg?cropheight=3420&cropwidth=5003&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6cfb704b-ca9c-4a00-a39b-95aeefbc3175.jpg&x=39&y=0" alt="" title="">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cfb704b-ca9c-4a00-a39b-95aeefbc3175.jpg</link>
-            <guid isPermaLink="false">6635de80-c376-40bf-a809-c181d9c82b68</guid>
-            <pubDate>Tue, 21 Jun 2016 17:24:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +26,13 @@
             <link>http://jorisswinkels.nl/this-website-is-build-using-thegridio-an-artificial-intelli/index.html</link>
             <guid isPermaLink="false">c2b22f21-4543-4563-894b-fab5c39f96d2</guid>
             <pubDate>Sun, 12 Jun 2016 23:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Waking up the World]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65dcd6928826dfd32527f62262f42e0b/croprotate.jpg?cropheight=3420&cropwidth=5003&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6cfb704b-ca9c-4a00-a39b-95aeefbc3175.jpg&x=39&y=0" alt="" title="">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cfb704b-ca9c-4a00-a39b-95aeefbc3175.jpg</link>
+            <guid isPermaLink="false">6635de80-c376-40bf-a809-c181d9c82b68</guid>
+            <pubDate>Tue, 21 Jun 2016 18:18:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact]]></title>
