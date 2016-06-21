@@ -4,8 +4,15 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 18:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 18:37:44 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cae7c6ec-cfd8-45a1-8b6a-ea54eefc3fe9.jpg">]]></description>
+            <link>http://jorisswinkels.nl/i-am-a-cca-lead-trainer-and-transformational-executive-coach/index.html</link>
+            <guid isPermaLink="false">bce9bd73-8d83-4576-b035-686e086eba09</guid>
+            <pubDate>Tue, 21 Jun 2016 18:37:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waking up the World]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65dcd6928826dfd32527f62262f42e0b/croprotate.jpg?cropheight=3420&cropwidth=5003&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6cfb704b-ca9c-4a00-a39b-95aeefbc3175.jpg&x=39&y=0" alt="" title="">]]></description>
@@ -54,13 +61,6 @@
             <link>http://jorisswinkels.nl/i-am-passionate-about-sacred-geometry-as-it-is-the-mathemati/index.html</link>
             <guid isPermaLink="false">d4da404d-be4f-4150-b4e0-bf1aaa5bea29</guid>
             <pubDate>Sun, 12 Jun 2016 23:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cae7c6ec-cfd8-45a1-8b6a-ea54eefc3fe9.jpg">]]></description>
-            <link>http://jorisswinkels.nl/i-am-a-cca-lead-trainer-and-transformational-executive-coach/index.html</link>
-            <guid isPermaLink="false">bce9bd73-8d83-4576-b035-686e086eba09</guid>
-            <pubDate>Sun, 12 Jun 2016 23:27:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
