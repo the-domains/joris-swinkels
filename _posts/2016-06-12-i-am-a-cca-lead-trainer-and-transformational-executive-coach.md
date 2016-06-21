@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I am a CCA Lead Trainer and Transformational Executive Coach. '
-datePublished: '2016-06-12T23:27:29.728Z'
-dateModified: '2016-06-12T23:27:13.131Z'
+datePublished: '2016-06-21T18:37:40.459Z'
+dateModified: '2016-06-21T18:27:02.952Z'
 title: ''
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: >-
   _posts/2016-06-12-i-am-a-cca-lead-trainer-and-transformational-executive-coach.md
+authors: []
+publisher: null
+starred: true
 url: i-am-a-cca-lead-trainer-and-transformational-executive-coach/index.html
 _type: Article
 
