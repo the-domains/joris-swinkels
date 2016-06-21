@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-21T20:32:21.561Z'
-dateModified: '2016-06-21T20:31:41.638Z'
+datePublished: '2016-06-21T20:32:58.608Z'
+dateModified: '2016-06-21T20:32:22.036Z'
 title: 'I am a CCA Lead Trainer and Transformational Executive Coach. '
 author: []
 sourcePath: >-
