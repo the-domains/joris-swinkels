@@ -4,7 +4,7 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 19:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 19:32:07 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[If your Company or your job has no purpose for this earth and its people other than financial, stop it, go do something else! Where do you choose to give your life to?]]></title>
@@ -35,6 +35,13 @@
             <pubDate>Sun, 12 Jun 2016 23:12:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Contact..]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/444c441d-f1e4-4815-9294-1c290208eea0.jpg">]]></description>
+            <link>http://jorisswinkels.nl/contact/index.html</link>
+            <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
+            <pubDate>Tue, 21 Jun 2016 19:32:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My son Laurens]]></title>
             <description><![CDATA[<article><h1>My son Laurens</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa0c1944-bb75-469b-b95d-ebcaf69f2286.jpg"></article>]]></description>
             <link>http://jorisswinkels.nl/my-son-laurens/index.html</link>
@@ -54,13 +61,6 @@
             <link>http://www.robtv.be/nieuws/vlaams-brabant/bewust-worden-van-jezelf</link>
             <guid isPermaLink="false">433352eb-9088-4b37-b343-1441ed75d4fc</guid>
             <pubDate>Tue, 21 Jun 2016 19:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>EMAIL: joris@creativeconsciousness.nl</p></article>]]></description>
-            <link>http://jorisswinkels.nl/contact/index.html</link>
-            <guid isPermaLink="false">3fddf00e-a91e-4122-a0ba-e1f0888c00c7</guid>
-            <pubDate>Tue, 21 Jun 2016 17:25:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
