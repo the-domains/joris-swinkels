@@ -7,14 +7,14 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Waking up the World
-datePublished: '2016-06-21T15:30:44.237Z'
-dateModified: '2016-06-21T15:30:11.626Z'
+datePublished: '2016-06-21T15:30:04.485Z'
+dateModified: '2016-06-21T15:29:56.120Z'
 title: ''
 author: []
 authors: []
 publisher: null
+starred: false
 sourcePath: _posts/2016-06-21-waking-up-the-world.md
-starred: true
 _type: MediaObject
 
 ---
