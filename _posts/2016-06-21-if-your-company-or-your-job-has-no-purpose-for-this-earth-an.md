@@ -8,8 +8,8 @@ description: >-
   If your Company or your job has no purpose for this earth and its people other
   than financial, stop it, go do something else! Where do you choose to give
   your life to?
-datePublished: '2016-06-21T17:08:42.359Z'
-dateModified: '2016-06-21T17:08:35.988Z'
+datePublished: '2016-06-21T17:13:21.170Z'
+dateModified: '2016-06-21T17:08:48.854Z'
 title: ''
 author: []
 sourcePath: >-
