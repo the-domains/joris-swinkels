@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Everything relates to Everything
-datePublished: '2016-06-21T17:20:05.941Z'
-dateModified: '2016-06-21T17:19:55.682Z'
+datePublished: '2016-06-21T17:20:32.512Z'
+dateModified: '2016-06-21T17:20:23.407Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-12-everything-relates-to-everything.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: everything-relates-to-everything/index.html
 _type: Article
 
