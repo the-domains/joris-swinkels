@@ -4,7 +4,7 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 18:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 18:59:31 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>http://jorisswinkels.nl/this-website-is-build-using-thegridio-an-artificial-intelli/index.html</link>
             <guid isPermaLink="false">c2b22f21-4543-4563-894b-fab5c39f96d2</guid>
             <pubDate>Sun, 12 Jun 2016 23:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bewust worden van jezelf!]]></title>
+            <description><![CDATA[<article><h1>Bewust worden van jezelf!</h1><p>Nathalie Willems en Bert Vanderwegen vertellen in deze aflevering van Cocktail hoe je bewust kan worden van jezelf.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6ffb19fda58efbddb8db02a2f8896d88/noop.jpg?input=http%3A%2F%2Fwww.robtv.be%2Fsites%2Frobtv.sites.conimbo.com%2Ffiles%2Fn160531_76_38.jpg"></article>]]></description>
+            <link>http://www.robtv.be/nieuws/vlaams-brabant/bewust-worden-van-jezelf</link>
+            <guid isPermaLink="false">433352eb-9088-4b37-b343-1441ed75d4fc</guid>
+            <pubDate>Tue, 21 Jun 2016 18:59:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
