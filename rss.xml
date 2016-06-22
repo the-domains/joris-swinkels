@@ -4,15 +4,8 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 22:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 05:07:03 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[blogs]]></title>
-            <description><![CDATA[<article><h1>blogs</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/532a63dbcf9c2d0205c4ee343040ed6b/croprotate.jpg?cropheight=4657&cropwidth=3056&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F90377c23-484a-43a5-8338-7cf05e0028b7.jpg&x=54&y=13"></article>]]></description>
-            <link>http://jorisswinkels.nl/swinkelsbe/index.html</link>
-            <guid isPermaLink="false">60792ab8-e692-4eb5-ab81-6eb6c99962ad</guid>
-            <pubDate>Tue, 21 Jun 2016 22:16:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Waking up the World!]]></title>
             <description><![CDATA[<article><h1>Waking up the World!</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21d3fab4f5f092a1b0b1e5647231401e/croprotate.jpg?cropheight=3420&cropwidth=5003&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe24c4a23-d3fb-4d70-aca0-79ff033ddb91.jpg&x=39&y=0"></article>]]></description>
@@ -28,11 +21,18 @@
             <pubDate>Tue, 21 Jun 2016 19:22:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[blogs]]></title>
+            <description><![CDATA[<article><h1>SWINKELS.BE</h1></article>]]></description>
+            <link>http://jorisswinkels.nl/blogs/index.html</link>
+            <guid isPermaLink="false">60792ab8-e692-4eb5-ab81-6eb6c99962ad</guid>
+            <pubDate>Wed, 22 Jun 2016 05:06:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c319f8c-1830-47fd-9f52-3929e20200c4.jpg">]]></description>
             <link>http://jorisswinkels.nl/this-website-is-build-using-thegridio-an-artificial-intelli/index.html</link>
             <guid isPermaLink="false">c2b22f21-4543-4563-894b-fab5c39f96d2</guid>
-            <pubDate>Tue, 21 Jun 2016 21:52:50 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2016 22:16:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About]]></title>
