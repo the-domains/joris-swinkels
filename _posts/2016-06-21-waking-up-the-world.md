@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-23T11:53:19.845Z'
-dateModified: '2016-06-23T11:47:18.795Z'
+datePublished: '2016-06-23T11:58:33.853Z'
+dateModified: '2016-06-23T11:58:25.859Z'
 title: Waking up the World!
 author:
   - name: ''
@@ -22,5 +22,5 @@ _type: MediaObject
 ---
 # Waking up the World!
 
-Together with a team of trainers, coaches and ambassadors I wake up the World. We facilitate 4 day processes to guide people to a "new level of Consciousness". A clear purpose, meaning It's described as coming home to one's Self. The next episode of leadership, entrepreneurship and world structures is knocking at the door, how long do you try to keep up the old structure? Or are you ready for the next level?
+Together with a team of trainers, coaches and ambassadors I wake up the World. We facilitate 4 day processes to guide people to a "new level of Consciousness". A clear purpose, meaning. It's described as coming home to one's Self. The next episode of leadership, entrepreneurship and world structures is knocking at the door, how long do you try to keep up the old structure? Or are you ready for the next level?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e24c4a23-d3fb-4d70-aca0-79ff033ddb91.jpg)
