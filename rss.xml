@@ -4,7 +4,7 @@
         <description><![CDATA[Joris Swinkels]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 15:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 18:53:38 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Waking up the World!]]></title>
@@ -19,6 +19,13 @@
             <link>http://jorisswinkels.nl/if-your-company-or-your-job-has-no-purpose-for-this-earth-an/index.html</link>
             <guid isPermaLink="false">41050580-d4f2-44a5-b22b-bfe7619f6748</guid>
             <pubDate>Tue, 21 Jun 2016 19:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creative Consciousness]]></title>
+            <description><![CDATA[<article><h1>Creative Consciousness</h1><p>the break trough methodology created by Marc Steinberg</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3de09c17b8fc099667d02f26f32e6abd/croprotate.png?cropheight=612&cropwidth=2172&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fba587591-4ad6-459f-9680-09aa8f13797d.png&x=63&y=0"></article>]]></description>
+            <link>http://jorisswinkels.nl/cci/index.html</link>
+            <guid isPermaLink="false">9db4a673-002d-4a1a-88f0-462a6b9a789b</guid>
+            <pubDate>Thu, 18 Aug 2016 18:53:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are you the word you give?]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.marcsteinberg.com/about-marc-steinberg</link>
             <guid isPermaLink="false">4245754c-b971-4a8b-a6f4-e9ce4621636a</guid>
             <pubDate>Tue, 21 Jun 2016 20:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creative Consciousness - Creative Consciousness]]></title>
-            <description><![CDATA[<article><h1>Creative Consciousness - Creative Consciousness</h1><p>CC NL</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7cc3834932007680f7cbb932424058ba/noop.jpg?input=http%3A%2F%2Fcreativeconsciousness.nl%2Ffiles%2F2013%2F06%2FIMG_3577-645x319.jpg"></article>]]></description>
-            <link>http://creativeconsciousness.nl/</link>
-            <guid isPermaLink="false">8f3f2ff1-c937-497b-959f-045d9e923092</guid>
-            <pubDate>Tue, 21 Jun 2016 20:58:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
