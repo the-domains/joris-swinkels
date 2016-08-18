@@ -15,8 +15,8 @@ keywords:
   - authentically
   - philosophy
 description: the break trough methodology created by Marc Steinberg
-datePublished: '2016-08-18T18:53:35.145Z'
-dateModified: '2016-08-18T18:51:33.564Z'
+datePublished: '2016-08-18T19:12:42.930Z'
+dateModified: '2016-08-18T18:53:39.750Z'
 author: []
 related: []
 app_links: []
@@ -42,4 +42,8 @@ _type: MediaObject
 
 the break trough methodology created by Marc Steinberg
 
-4 - day transformational trainings
+4 - day transformational trainings de-identifying you with your monkey mind/ ego/ conditioning to arrive at a place graduates describe as "home within myself" 
+
+for more info [www.creativeconsciousness.com ][0]
+
+[0]: www.creativeconsciousness.com
