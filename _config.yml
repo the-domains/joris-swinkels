@@ -31,6 +31,9 @@ navigation:
   - name: CCI
     id: 49e11aa3-6bbc-49de-a012-173eabad6971
     type: content
+  - name: Contact
+    id: 3fddf00e-a91e-4122-a0ba-e1f0888c00c7
+    type: content
 favicon: null
 collections:
   - index:
