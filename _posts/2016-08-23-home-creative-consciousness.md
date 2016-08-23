@@ -25,16 +25,14 @@ description: >-
   your full potential, your life to its fullest extent.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://creativeconsciousness.com/'
 title: Home - Creative Consciousness
-datePublished: '2016-08-23T16:51:21.350Z'
-dateModified: '2016-08-23T16:47:06.173Z'
+datePublished: '2016-08-23T16:54:55.215Z'
+dateModified: '2016-08-23T16:54:54.807Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-home-creative-consciousness.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: home-creative-consciousness/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
