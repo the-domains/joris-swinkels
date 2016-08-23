@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Joris
+    id: 6635de80-c376-40bf-a809-c181d9c82b68
+    type: content
 favicon: null
 collections:
   - index:
