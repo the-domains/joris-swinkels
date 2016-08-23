@@ -1,80 +1,42 @@
 ---
-author:
-  - name: Reinventing Organizations
-    url: 'https://www.youtube.com/channel/UCUiCCzSId58oP0p62Z2m3zQ'
-    avatar: {}
+author: []
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+  url: 'http://www.reinventingorganizations.com'
+  name: Reinventing Organizations
+  favicon: >-
+    http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/4943578_orig.png
+  domain: www.reinventingorganizations.com
 keywords:
-  - duration
-  - laloux
-  - views
-  - reinventing
   - organizations
-  - tedx
-  - holacracy
+  - book
+  - audiobook
+  - reinventing
+  - paradigm
+  - pay-what-feels-right
+  - purchase
+  - laloux
+  - real-life
   - frederic
-  - ric
-  - sinek
 description: >-
-  A talk, followed by Q&A, by Frederic Laloux about "Reinventing Organizations",
-  a research and book that is turning into an international phenomenon.
-  Increasingly, employees and managers (but also doctors, nurses, teachers,
-  etc.) are disillusioned with the way we run organizations today.
+  Based on three years of research, the book Reinventing Organizations describes
+  the emergence of a new management paradigm, a radically more soulful,
+  purposeful and powerful ways to structure and run businesses and non-profits,
+  schools and hospitals.
 inLanguage: en
-app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=gcS04BI2sbk&feature=applinks'
-    type: ios
-    namespace: ai
-    app_store_id: '544007664'
-    app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=gcS04BI2sbk&feature=applinks'
-    type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
-  - url: 'https://www.youtube.com/watch?v=gcS04BI2sbk&feature=applinks'
-    type: web
-    namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=gcS04BI2sbk&feature=applinks'
-    namespace: twitter
-    type: ipad
-    name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=gcS04BI2sbk&feature=applinks'
-    namespace: twitter
-    type: iphone
-    name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=gcS04BI2sbk'
-    namespace: twitter
-    type: googleplay
-    name: YouTube
-    id: com.google.android.youtube
-  - path: http/www.youtube.com/watch?v=gcS04BI2sbk
-    package: com.google.android.youtube
-    namespace: google
-    type: android
-  - path: vnd.youtube/www.youtube.com/watch?v=gcS04BI2sbk
-    package: '544007664'
-    namespace: google
-    type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=gcS04BI2sbk'
+app_links: []
+isBasedOnUrl: 'http://www.reinventingorganizations.com/'
 title: Reinventing Organizations
-datePublished: '2016-08-23T16:30:58.165Z'
-dateModified: '2016-08-23T16:26:25.943Z'
+datePublished: '2016-08-23T16:51:17.511Z'
+dateModified: '2016-08-23T16:25:43.857Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-23-reinventing-organizations.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: MediaObject
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgcS04BI2sbk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgcS04BI2sbk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgcS04BI2sbk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<article style=""><h1>Reinventing Organizations</h1><p>Based on three years of research, the book Reinventing Organizations describes the emergence of a new management paradigm, a radically more soulful, purposeful and powerful ways to structure and run businesses and non-profits, schools and hospitals.</p><img src="http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/_9251422.jpg" /></article>
