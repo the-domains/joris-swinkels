@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T22:29:01.781Z'
+datePublished: '2016-08-23T22:30:35.254Z'
 sourcePath: _posts/2016-08-23-interesting-perspective.md
 isBasedOnUrl: 'https://www.linkedin.com/pulse/dont-follow-your-passion-david-max'
 author:
@@ -7,14 +7,14 @@ author:
     url: 'https://www.linkedin.com/in/davidpmax?trk=pulse-det-athr_prof-art_hdr'
     avatar: {}
 via: {}
-dateModified: '2016-08-23T22:29:01.323Z'
+dateModified: '2016-08-23T22:30:34.862Z'
 title: Interesting perspective
 publisher: {}
 description: >-
   One of the most typical pieces of advice you're likely to get for how to find
   a job that will bring you success and that you will find enjoyable and
   meaningful is to "follow your passion."
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
