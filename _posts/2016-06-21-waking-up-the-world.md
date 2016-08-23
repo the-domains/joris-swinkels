@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T17:06:05.157Z'
+datePublished: '2016-08-23T21:57:50.181Z'
 sourcePath: _posts/2016-06-21-waking-up-the-world.md
 inFeed: true
 isBasedOnUrl: >-
@@ -11,10 +11,16 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T17:06:04.913Z'
+dateModified: '2016-08-23T21:57:49.680Z'
 title: Joris Swinkels
 publisher: {}
-description: ''
+description: >-
+  Together with a team of trainers, coaches and ambassadors I wake up the World.
+  We facilitate 4 day processes to guide people to a "new level of
+  Consciousness". A clear purpose, meaning. It's described as coming home to
+  one's Self. The next episode of leadership, entrepreneurship and world
+  structures is knocking at the door, how long do you try to keep up the old
+  structure? Or are you ready for the next level?
 inLanguage: null
 inNav: false
 starred: true
@@ -22,6 +28,6 @@ _type: MediaObject
 
 ---
 # Joris Swinkels
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23c73d5ccd1253c10a62a71d730f966b/croprotate.jpg?cropheight=3331&cropwidth=4994&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F7015ff75a2399b7c0fb90770b2b7542875d3153d.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0a03c2d69c5e844cb8e274b89b4c9b86d1c8975.jpg)
 
 Together with a team of trainers, coaches and ambassadors I wake up the World. We facilitate 4 day processes to guide people to a "new level of Consciousness". A clear purpose, meaning. It's described as coming home to one's Self. The next episode of leadership, entrepreneurship and world structures is knocking at the door, how long do you try to keep up the old structure? Or are you ready for the next level?
