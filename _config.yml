@@ -28,6 +28,9 @@ navigation:
   - name: Joris
     id: 6635de80-c376-40bf-a809-c181d9c82b68
     type: content
+  - name: CCI
+    id: 49e11aa3-6bbc-49de-a012-173eabad6971
+    type: content
 favicon: null
 collections:
   - index:
