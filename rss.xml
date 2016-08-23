@@ -4,7 +4,7 @@
         <description><![CDATA[Waking up the World]]></description>
         <link>http://jorisswinkels.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 22:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 22:08:57 GMT</lastBuildDate>
         <atom:link href="http://jorisswinkels.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Joris Swinkels]]></title>
@@ -68,6 +68,13 @@
             <link>https://www.linkedin.com/pulse/jullie-kracht-joris-swinkels?trk=mp-author-card</link>
             <guid isPermaLink="false">ee1b1ce6-cb44-4b9e-b6fa-5203bf46b3f8</guid>
             <pubDate>Thu, 23 Jun 2016 11:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Passion for Awareness]]></title>
+            <description><![CDATA[<article><h1>Passion for Awareness</h1><p>About</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8cfda83ad31f8ff47757f731b7f58949/noop.jpg?input=http%3A%2F%2Fwww.marcsteinberg.com%2Fimages%2FPFA.jpg"></article>]]></description>
+            <link>http://www.marcsteinberg.com/about-marc-steinberg</link>
+            <guid isPermaLink="false">4245754c-b971-4a8b-a6f4-e9ce4621636a</guid>
+            <pubDate>Tue, 23 Aug 2016 22:08:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
