@@ -1,24 +1,23 @@
 ---
-datePublished: '2016-08-23T16:49:19.286Z'
+datePublished: '2016-08-23T16:54:04.058Z'
 sourcePath: _posts/2016-06-21-waking-up-the-world.md
 inFeed: true
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cfb704b-ca9c-4a00-a39b-95aeefbc3175.jpg
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T16:49:18.882Z'
+dateModified: '2016-08-23T16:54:03.627Z'
 title: Joris Swinkels
 publisher: {}
 description: ''
 inLanguage: null
 inNav: false
 starred: true
-_type: MediaObject
+url: joris-swinkels/index.html
+_type: Article
 
 ---
 # Joris Swinkels
