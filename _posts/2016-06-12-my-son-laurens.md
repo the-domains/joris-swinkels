@@ -1,23 +1,25 @@
 ---
+datePublished: '2016-08-23T22:07:31.453Z'
+sourcePath: _posts/2016-06-12-my-son-laurens.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: ''
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: ''
-datePublished: '2016-06-21T22:01:52.351Z'
-dateModified: '2016-06-21T22:01:45.777Z'
-title: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-06-12-my-son-laurens.md
-authors: []
-publisher: null
-starred: false
+via: {}
+dateModified: '2016-08-23T22:07:30.915Z'
+title: My Son Laurens
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: true
 _type: Blurb
 
 ---
-# My Son Laurens
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa0c1944-bb75-469b-b95d-ebcaf69f2286.jpg)
+
+# My Son Laurens
