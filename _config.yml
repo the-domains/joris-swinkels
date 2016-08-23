@@ -1,8 +1,30 @@
-name: Joris Swinkels
-favicon: null
-layout_spectrum: 0.74541
 typography_spectrum: 0.2429
-title: null
+color:
+  brandColors:
+    - '#F2FAFC'
+    - '#A2BD30'
+    - '#ABD8FA'
+    - '#1F65D0'
+    - '#07392A'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74541
+analytics:
+  google: UA-74351104-1
+  facebook: null
+  twitter: null
+name: Joris Swinkels
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74351104-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#F2FAFC'
-    - '#A2BD30'
-    - '#ABD8FA'
-    - '#1F65D0'
-    - '#07392A'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+title: Waking up the World
 purpose: []
