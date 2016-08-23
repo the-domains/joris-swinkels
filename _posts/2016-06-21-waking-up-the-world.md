@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T17:06:01.156Z'
+datePublished: '2016-08-23T17:06:05.157Z'
 sourcePath: _posts/2016-06-21-waking-up-the-world.md
 inFeed: true
 isBasedOnUrl: >-
@@ -11,13 +11,13 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T17:06:00.382Z'
+dateModified: '2016-08-23T17:06:04.913Z'
 title: Joris Swinkels
 publisher: {}
 description: ''
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 _type: MediaObject
 
 ---
