@@ -1,4 +1,3 @@
-layout_spectrum: 0.3958112532272935
 typography_spectrum: 0.18543921201489866
 color:
   brandColors:
@@ -15,10 +14,14 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.3958112532272935
 analytics:
   google: UA-74351104-1
   facebook: null
   twitter: null
+author:
+  name: Joris Swinkels
+  email: joris@swinkels.be
 name: Joris Swinkels
 cta:
   domain: null
