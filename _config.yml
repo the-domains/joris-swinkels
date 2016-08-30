@@ -25,7 +25,7 @@ author:
   name: Joris Swinkels
   email: joris@swinkels.be
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f16a4042-24a5-4037-b2b5-b9ae4b337b6d.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/341b0acd-11aa-4473-8f23-34e978490c90.png
 name: Joris Swinkels
 cta:
   domain: null
@@ -41,7 +41,8 @@ navigation:
   - name: Contact
     id: 3fddf00e-a91e-4122-a0ba-e1f0888c00c7
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/403097e1-ed84-4bb8-9493-b0bd58685993.jpg
 collections:
   - index:
       path: /
