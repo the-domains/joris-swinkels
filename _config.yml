@@ -13,7 +13,7 @@ color:
 opengraph:
   image: null
   type: null
-  appId: null
+  appId: 'https://www.facebook.com/joris.swinkels'
 layout_spectrum: 0.3958112532272935
 analytics:
   google: UA-74351104-1
