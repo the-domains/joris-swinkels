@@ -1,4 +1,6 @@
 typography_spectrum: 0.18543921201489866
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#225378'
@@ -22,6 +24,8 @@ analytics:
 author:
   name: Joris Swinkels
   email: joris@swinkels.be
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f16a4042-24a5-4037-b2b5-b9ae4b337b6d.jpg
 name: Joris Swinkels
 cta:
   domain: null
